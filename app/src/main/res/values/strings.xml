@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ls</string>
+    <string name="film_story">集成VitamioTest</string>
+
+    <string name="film_director"></string>
+    <string name="film_name">树莓派摄像头监控</string>
+</resources>
